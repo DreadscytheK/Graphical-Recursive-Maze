@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1623428565 source:c:\users\kenny\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<vector>
+	"Maze.h"
+	<cstdlib>
+
+1623428565 source:c:\users\kenny\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\maze.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	"Maze.h"
+
+1622820734 c:\users\kenny\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\maze.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1622825490 c:\users\kenny\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\header.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1623099596 source:c:\users\wcbt\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\maze.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"Maze.h"
+
+1623099431 source:c:\users\wcbt\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<vector>
+	"Maze.h"
+	<cstdlib>
+
+1623097762 c:\users\wcbt\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\header.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1623099251 c:\users\wcbt\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\maze.h
+	<iostream>
+
+1623428565 c:\users\kenny\documents\github\maze-kenny-ratcliffe\recursivemazeassignment\maze.h
+	<iostream>
+
